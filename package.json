@@ -14,6 +14,7 @@
     "url": "https://github.com/evonsdesigns/if-i-hadnt-sold/issues"
   },
   "dependencies": {
+    "node-sass": "^4.9.4",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
